@@ -8,6 +8,8 @@ Live 1-on-1 sessions and productized work that actually ships.
 **Rate:** $1 / minute  
 **Payment:** PayPal · Cash App · Stripe · Signal
 
+These are the exact systems and workflows I use myself and with clients. Everything starts free on GitHub — when you want it built or customized live with you, we jump on a session.
+
 ---
 
 ## What I do
@@ -24,6 +26,16 @@ No packages. No retainers. No hidden fees. Pay only for the time we spend.
 
 ---
 
+## Start Free First
+
+- **[start-here](https://github.com/ram133/start-here)** — Free resources, newsletter, and tools
+- **[NEWS](https://github.com/ram133/NEWS)** — Free daily AI newsletter
+- **[GROK](https://github.com/ram133/GROK)** — Personal AI Agent Toolkit
+- **[automation](https://github.com/ram133/automation)** — Reusable free GitHub Actions
+- **[product-kit](https://github.com/ram133/product-kit)** — Free starter kit for digital products
+
+---
+
 ## Contact & Payment
 
 | Method | Details |
@@ -35,16 +47,6 @@ No packages. No retainers. No hidden fees. Pay only for the time we spend.
 | **Cash App / Stripe** | Available via [ray.services](https://ray.services) |
 
 All payments go directly to Ray.
-
----
-
-## Related Products
-
-- [NEWS](https://github.com/ram133/NEWS) — Free daily AI newsletter
-- [GROK](https://github.com/ram133/GROK) — Personal AI Agent Toolkit
-- [store](https://github.com/ram133/store) — Digital product store
-- [digital_factory](https://github.com/ram133/digital_factory) — Ship digital products on repeat
-- [prompt-pack](https://github.com/ram133/prompt-pack) — High-signal prompts
 
 ---
 
